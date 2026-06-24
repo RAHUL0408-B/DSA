@@ -29,7 +29,7 @@ public class reverse {
         reverse(arr, k, n - 1);
 
         for(int num : arr) {
-            System.out.print(num + " ");
+            System.out.print(num + " "); 
         }
     }
 }
