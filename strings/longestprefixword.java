@@ -1,23 +1,58 @@
+// public class longestprefixword {
+
+//     public static void main(String[] args) {
+
+//         String[] arr = {"flower", "flow", "flight"};
+
+//         String prefix = arr[0];
+
+//         for (int i = 1; i < arr.length; i++) {
+
+//             while (!arr[i].startsWith(prefix)) {
+
+//                 prefix = prefix.substring(0, prefix.length() - 1);
+
+//                 if (prefix.isEmpty()) {
+//                     break;
+//                 }
+//             }
+//         }
+
+//         System.out.println("Longest Common Prefix = " + prefix);
+//     }
+// }
+
+
+import java.util.HashSet;
+
 public class longestprefixword {
 
     public static void main(String[] args) {
 
-        String[] arr = {"flower", "flow", "flight"};
+        String s = "abcabcbb";
 
-        String prefix = arr[0];
+        HashSet<Character> set = new HashSet<>();
 
-        for (int i = 1; i < arr.length; i++) {
+        int left = 0;
+        int maxLength = 0;
 
-            while (!arr[i].startsWith(prefix)) {
+        for (int right = 0; right < s.length(); right++) {
 
-                prefix = prefix.substring(0, prefix.length() - 1);
+            while (set.contains(s.charAt(right))) {
 
-                if (prefix.isEmpty()) {
-                    break;
-                }
+                set.remove(s.charAt(left));
+                left++;
+
             }
+
+            set.add(s.charAt(right));
+
+            maxLength = Math.max(maxLength, right - left + 1);
+
         }
 
-        System.out.println("Longest Common Prefix = " + prefix);
+        System.out.println("Longest Length = " + maxLength);
+
     }
+
 }
