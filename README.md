@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/RAHUL0408-B/DSA/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/RAHUL0408-B/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0238-product-of-array-except-self](https://github.com/RAHUL0408-B/DSA/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/RAHUL0408-B/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0566-reshape-the-matrix](https://github.com/RAHUL0408-B/DSA/tree/master/0566-reshape-the-matrix) |
 ## Matrix
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/RAHUL0408-B/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/RAHUL0408-B/DSA/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
