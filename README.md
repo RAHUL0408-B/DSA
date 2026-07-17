@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/RAHUL0408-B/DSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/RAHUL0408-B/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/RAHUL0408-B/DSA/tree/master/0242-valid-anagram) |
+| [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/RAHUL0408-B/DSA/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 ## Sorting
 |  |
 | ------- |
