@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/RAHUL0408-B/DSA/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/RAHUL0408-B/DSA/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/RAHUL0408-B/DSA/tree/master/0049-group-anagrams) |
+| [0074-search-a-2d-matrix](https://github.com/RAHUL0408-B/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RAHUL0408-B/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/RAHUL0408-B/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RAHUL0408-B/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/RAHUL0408-B/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0566-reshape-the-matrix](https://github.com/RAHUL0408-B/DSA/tree/master/0566-reshape-the-matrix) |
 ## Simulation
 |  |
@@ -125,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/RAHUL0408-B/DSA/tree/master/0155-min-stack) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/RAHUL0408-B/DSA/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
