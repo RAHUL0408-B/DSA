@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/RAHUL0408-B/DSA/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/RAHUL0408-B/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0566-reshape-the-matrix](https://github.com/RAHUL0408-B/DSA/tree/master/0566-reshape-the-matrix) |
+| [0739-daily-temperatures](https://github.com/RAHUL0408-B/DSA/tree/master/0739-daily-temperatures) |
 ## Matrix
 |  |
 | ------- |
@@ -110,10 +111,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/RAHUL0408-B/DSA/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RAHUL0408-B/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/RAHUL0408-B/DSA/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/RAHUL0408-B/DSA/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/RAHUL0408-B/DSA/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/RAHUL0408-B/DSA/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
 | ------- |
