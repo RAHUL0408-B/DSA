@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/RAHUL0408-B/DSA/tree/master/0566-reshape-the-matrix) |
 | [0739-daily-temperatures](https://github.com/RAHUL0408-B/DSA/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/RAHUL0408-B/DSA/tree/master/0853-car-fleet) |
+| [0875-koko-eating-bananas](https://github.com/RAHUL0408-B/DSA/tree/master/0875-koko-eating-bananas) |
 ## Matrix
 |  |
 | ------- |
@@ -131,4 +132,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/RAHUL0408-B/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0875-koko-eating-bananas](https://github.com/RAHUL0408-B/DSA/tree/master/0875-koko-eating-bananas) |
 <!---LeetCode Topics End-->
