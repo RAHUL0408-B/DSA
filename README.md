@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/RAHUL0408-B/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/RAHUL0408-B/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/RAHUL0408-B/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0981-time-based-key-value-store](https://github.com/RAHUL0408-B/DSA/tree/master/0981-time-based-key-value-store) |
 ## String
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/RAHUL0408-B/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/RAHUL0408-B/DSA/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/RAHUL0408-B/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0981-time-based-key-value-store](https://github.com/RAHUL0408-B/DSA/tree/master/0981-time-based-key-value-store) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/RAHUL0408-B/DSA/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 ## Sorting
 |  |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/RAHUL0408-B/DSA/tree/master/0155-min-stack) |
+| [0981-time-based-key-value-store](https://github.com/RAHUL0408-B/DSA/tree/master/0981-time-based-key-value-store) |
 ## Binary Search
 |  |
 | ------- |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/RAHUL0408-B/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RAHUL0408-B/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/RAHUL0408-B/DSA/tree/master/0875-koko-eating-bananas) |
+| [0981-time-based-key-value-store](https://github.com/RAHUL0408-B/DSA/tree/master/0981-time-based-key-value-store) |
 ## Linked List
 |  |
 | ------- |
