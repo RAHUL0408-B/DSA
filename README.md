@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/RAHUL0408-B/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RAHUL0408-B/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/RAHUL0408-B/DSA/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/RAHUL0408-B/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/RAHUL0408-B/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0566-reshape-the-matrix](https://github.com/RAHUL0408-B/DSA/tree/master/0566-reshape-the-matrix) |
 | [0739-daily-temperatures](https://github.com/RAHUL0408-B/DSA/tree/master/0739-daily-temperatures) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/RAHUL0408-B/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/RAHUL0408-B/DSA/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/RAHUL0408-B/DSA/tree/master/0143-reorder-list) |
+| [0287-find-the-duplicate-number](https://github.com/RAHUL0408-B/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |
 | ------- |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/RAHUL0408-B/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/RAHUL0408-B/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RAHUL0408-B/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/RAHUL0408-B/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0875-koko-eating-bananas](https://github.com/RAHUL0408-B/DSA/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/RAHUL0408-B/DSA/tree/master/0981-time-based-key-value-store) |
 ## Linked List
@@ -167,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/RAHUL0408-B/DSA/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/RAHUL0408-B/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/RAHUL0408-B/DSA/tree/master/0206-reverse-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/RAHUL0408-B/DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
