@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RAHUL0408-B/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RAHUL0408-B/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/RAHUL0408-B/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/RAHUL0408-B/DSA/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RAHUL0408-B/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RAHUL0408-B/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/RAHUL0408-B/DSA/tree/master/0238-product-of-array-except-self) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/RAHUL0408-B/DSA/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/RAHUL0408-B/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Tree
 |  |
