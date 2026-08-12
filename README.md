@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/RAHUL0408-B/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/RAHUL0408-B/DSA/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/RAHUL0408-B/DSA/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/RAHUL0408-B/DSA/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/RAHUL0408-B/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RAHUL0408-B/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RAHUL0408-B/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/RAHUL0408-B/DSA/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/RAHUL0408-B/DSA/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RAHUL0408-B/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/RAHUL0408-B/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
