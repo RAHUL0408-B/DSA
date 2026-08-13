@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/RAHUL0408-B/DSA/tree/master/0067-add-binary) |
 | [0566-reshape-the-matrix](https://github.com/RAHUL0408-B/DSA/tree/master/0566-reshape-the-matrix) |
 ## Hash Table
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/RAHUL0408-B/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/RAHUL0408-B/DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/RAHUL0408-B/DSA/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/RAHUL0408-B/DSA/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/RAHUL0408-B/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/RAHUL0408-B/DSA/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/RAHUL0408-B/DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/RAHUL0408-B/DSA/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/RAHUL0408-B/DSA/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/RAHUL0408-B/DSA/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RAHUL0408-B/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/RAHUL0408-B/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/RAHUL0408-B/DSA/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/RAHUL0408-B/DSA/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/RAHUL0408-B/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Tree
