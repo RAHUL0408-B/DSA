@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/RAHUL0408-B/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RAHUL0408-B/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/RAHUL0408-B/DSA/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/RAHUL0408-B/DSA/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RAHUL0408-B/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/RAHUL0408-B/DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RAHUL0408-B/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/RAHUL0408-B/DSA/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/RAHUL0408-B/DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/RAHUL0408-B/DSA/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/RAHUL0408-B/DSA/tree/master/0067-add-binary) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/RAHUL0408-B/DSA/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/RAHUL0408-B/DSA/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/RAHUL0408-B/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/RAHUL0408-B/DSA/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RAHUL0408-B/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
