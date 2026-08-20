@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/RAHUL0408-B/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/RAHUL0408-B/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/RAHUL0408-B/DSA/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/RAHUL0408-B/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/RAHUL0408-B/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/RAHUL0408-B/DSA/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/RAHUL0408-B/DSA/tree/master/0049-group-anagrams) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/RAHUL0408-B/DSA/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/RAHUL0408-B/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/RAHUL0408-B/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/RAHUL0408-B/DSA/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/RAHUL0408-B/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/RAHUL0408-B/DSA/tree/master/0141-linked-list-cycle) |
